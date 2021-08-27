@@ -7,5 +7,6 @@ namespace BaiTap3.Models
 {
     public class Bai03
     {
+        public
     }
 }
